@@ -19,7 +19,7 @@ This README is also available in other languages:
 ## Installation
 
 ```sh
-$ npm install --save multer
+$ npm indadadstall --save multer
 ```
 
 ## Usage
