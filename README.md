@@ -6,7 +6,7 @@ on top of [busboy](https://github.com/mscdex/busboy) for maximum efficiency.
 **NOTE**: Multer will not process any form which is not multipart (`multipart/form-data`).
 
 ## Translations 
-
+## Other Languages
 This README is also available in other languages:
 
 - [Español](https://github.com/expressjs/multer/blob/master/doc/README-es.md) (Spanish)
